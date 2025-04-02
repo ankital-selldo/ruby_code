@@ -1,1 +1,3 @@
 The code in ruby for Wordle Game.
+
+Updated sample.txt for checking webhook.
